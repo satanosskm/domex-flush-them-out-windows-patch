@@ -1,0 +1,190 @@
+[
+  {
+    "success": true,
+    "case": "nvldumdx",
+    "characters": 8,
+    "base": "0x7a100000",
+    "path_characters": 32
+  },
+  {
+    "success": true,
+    "case": "nvldumdx.dll",
+    "characters": 12,
+    "base": "0x7a100000",
+    "path_characters": 32
+  },
+  {
+    "success": true,
+    "case": "NVLDUMDX.DLL",
+    "characters": 12,
+    "base": "0x7a100000",
+    "path_characters": 32
+  },
+  {
+    "success": true,
+    "case": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nvidia_driver",
+    "characters": 496,
+    "base": "0x7a100000",
+    "path_characters": 500
+  },
+  {
+    "success": true,
+    "case": "\\\\server\\share\\driver.dll",
+    "characters": 25,
+    "base": "0x7a100000",
+    "path_characters": 25
+  },
+  {
+    "success": true,
+    "case": "a",
+    "characters": 1,
+    "base": "0x7a100000",
+    "path_characters": 25
+  },
+  {
+    "success": true,
+    "case": "pilote_éà",
+    "characters": 9,
+    "base": "0x7a100000",
+    "path_characters": 33
+  },
+  {
+    "success": true,
+    "case": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "characters": 32700,
+    "base": "0x7a100000",
+    "path_characters": 32724
+  },
+  {
+    "success": true,
+    "case": "nvldumdx",
+    "characters": 8,
+    "base": "0x61b00000",
+    "path_characters": 32
+  },
+  {
+    "success": true,
+    "case": "nvldumdx.dll",
+    "characters": 12,
+    "base": "0x61b00000",
+    "path_characters": 32
+  },
+  {
+    "success": true,
+    "case": "NVLDUMDX.DLL",
+    "characters": 12,
+    "base": "0x61b00000",
+    "path_characters": 32
+  },
+  {
+    "success": true,
+    "case": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nvidia_driver",
+    "characters": 496,
+    "base": "0x61b00000",
+    "path_characters": 500
+  },
+  {
+    "success": true,
+    "case": "\\\\server\\share\\driver.dll",
+    "characters": 25,
+    "base": "0x61b00000",
+    "path_characters": 25
+  },
+  {
+    "success": true,
+    "case": "a",
+    "characters": 1,
+    "base": "0x61b00000",
+    "path_characters": 25
+  },
+  {
+    "success": true,
+    "case": "pilote_éà",
+    "characters": 9,
+    "base": "0x61b00000",
+    "path_characters": 33
+  },
+  {
+    "success": true,
+    "case": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "characters": 32700,
+    "base": "0x61b00000",
+    "path_characters": 32724
+  },
+  {
+    "success": true,
+    "case": "nvldumdx",
+    "characters": 8,
+    "base": "0x24000000",
+    "path_characters": 32
+  },
+  {
+    "success": true,
+    "case": "nvldumdx.dll",
+    "characters": 12,
+    "base": "0x24000000",
+    "path_characters": 32
+  },
+  {
+    "success": true,
+    "case": "NVLDUMDX.DLL",
+    "characters": 12,
+    "base": "0x24000000",
+    "path_characters": 32
+  },
+  {
+    "success": true,
+    "case": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nvidia_driver",
+    "characters": 496,
+    "base": "0x24000000",
+    "path_characters": 500
+  },
+  {
+    "success": true,
+    "case": "\\\\server\\share\\driver.dll",
+    "characters": 25,
+    "base": "0x24000000",
+    "path_characters": 25
+  },
+  {
+    "success": true,
+    "case": "a",
+    "characters": 1,
+    "base": "0x24000000",
+    "path_characters": 25
+  },
+  {
+    "success": true,
+    "case": "pilote_éà",
+    "characters": 9,
+    "base": "0x24000000",
+    "path_characters": 33
+  },
+  {
+    "success": true,
+    "case": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "characters": 32700,
+    "base": "0x24000000",
+    "path_characters": 32724
+  },
+  {
+    "success": false,
+    "case": "nvldumdx",
+    "alloc_failure": 1
+  },
+  {
+    "success": false,
+    "case": "nvldumdx",
+    "alloc_failure": 2
+  },
+  {
+    "success": false,
+    "case": "nvldumdx",
+    "alloc_failure": 0
+  },
+  {
+    "success": false,
+    "case": "nvldumdx",
+    "alloc_failure": 0
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "original_sha256": "f8d134d5aed3fe2a5e3ca07affa773054a88e68c8d5be31606f282a0823173f4",
+  "patched_sha256": "4c958246251797d4d175cff2b39912f8e47891194d94fd8b1820e10574a10af5",
+  "xtra_sha256": "52ef1fa74a277a4d55e2874b4a5eb0facf38faffa4da40e35caaae186f68afb1",
+  "helper_rva": 1888256,
+  "helper_size": 408,
+  "site_rva": 962977,
+  "removed_relocation_rvas": [
+    962979
+  ],
+  "original_chunk_size": 798766,
+  "patched_chunk_size": 772360,
+  "original_exe_size": 31989206,
+  "method": "new PIC helper section; existing EXE offsets preserved"
+}

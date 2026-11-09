@@ -1,0 +1,31 @@
+DOMEX: FLUSH THEM OUT — WINDOWS COMPATIBILITY PATCH
+
+ENGLISH
+
+The original game is required and is not included.
+
+1. Extract this ZIP.
+2. Place Domex-Windows10-Patch.exe next to flush_them_out.exe in the game folder.
+3. Double-click the patcher. It creates the patched version and starts the game.
+
+On first launch, Windows may display a security warning because the program is not digitally signed. Click More info, then Run anyway.
+
+Your original game file is kept intact. No administrator rights are required.
+For future sessions, launch flush_them_out-win10.exe or the patcher.
+Read README.md for the full instructions.
+
+------------------------------------------------------------
+
+FRANÇAIS
+
+Le jeu original est nécessaire et n’est pas inclus.
+
+1. Extrais ce ZIP.
+2. Place Domex-Windows10-Patch.exe à côté de flush_them_out.exe dans le dossier du jeu.
+3. Double-clique sur le patcher. Il crée la version corrigée et lance le jeu.
+
+Au premier lancement, Windows peut afficher un avertissement de sécurité, car le programme n’est pas signé numériquement. Clique sur Informations complémentaires, puis sur Exécuter quand même.
+
+Le fichier original est conservé intact. Aucun droit administrateur n’est nécessaire.
+Pour rejouer, lance flush_them_out-win10.exe ou le patcher.
+Consulte README.md pour les instructions complètes.
